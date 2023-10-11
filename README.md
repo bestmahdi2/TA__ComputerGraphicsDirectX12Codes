@@ -46,15 +46,20 @@ https://github.com/bestmahdi2/ComputerGraphicsDirectX12Sources
   
 ## :warning: نکات
 
-حتماً این ریپوزیتوری را fork کنید. تمامی تکالیف و پروژه‌ی شما از fork‌های روی همین ریپوزیتوری بررسی خواهند شد.
+حتماً این ریپوزیتوری را [![repo-forked][repo-forked]][repo-forked] کنید. تمامی تکالیف و پروژه‌ی شما از [![repo-forked][repo-forked]][repo-forked] ‌های روی همین ریپوزیتوری بررسی خواهند شد.
+
 
 این چهار دایرکتوری اصلی را از پروژه‌ی خود حذف نکنید.
 
 در صورتی که نیاز به کمک داشتید، همه‌ی فایل‌های خود را درون دایرکتوری مربوط به آن (تکلیف یا پروژه) اضافه کرده، آن را
-commit و push کنید.
+[![git-commit][git-commit]][git-commit] و push کنید.
 
-این ریپوزیتوری صرفاً برای استفاده‌ی template است و روی آن Pull Request ارسال نکنید.
+این ریپوزیتوری صرفاً برای استفاده‌ی template است و روی آن [![git-pull-request][git-pull-request]][git-pull-request] ارسال نکنید.
 
 در صورتی که تکالیف یا پروژه‌ی شما به عنوان نمونه‌های برتر انتخاب شود، آدرس آن در آخر این ریپوزیتوری اضافه خواهد شد.
 
+
+[repo-forked]: https://custom-icon-badges.demolab.com/badge/Fork-orange.svg?logo=fork
+[git-commit]: https://custom-icon-badges.demolab.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff
+[git-pull-request]: https://custom-icon-badges.demolab.com/badge/Pull%20Request-purple.svg?logo=pr
 </div>
